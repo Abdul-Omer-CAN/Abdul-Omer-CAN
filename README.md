@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br>I build AI and machine learning projects using Python, PyTorch, FastAPI, SQL, and LLM technologies. I enjoy creating scalable backend systems, experimenting with ML models, and continuously improving my skills through hands-on projects and open-source learning.<br><br>🎓 BSc Graduate  | ML Engineer<br>🚀 Currently building AI & ML projects  <br>🧠 Learning more about deep learning, deployment, and MLOps  <br>📂 Sharing projects and progress on GitHub
+## I build AI and machine learning projects using Python, PyTorch, FastAPI, SQL, and LLM technologies. I enjoy creating scalable backend systems, experimenting with ML models, and continuously improving my skills through hands-on projects and open-source learning.<br><br>🎓 BSc Graduate  | ML Engineer<br>🚀 Currently building AI & ML projects  <br>🧠 Learning more about deep learning, deployment, and MLOps  <br>📂 Sharing projects and progress on GitHub
 
 
 ## 🌐 Socials:
